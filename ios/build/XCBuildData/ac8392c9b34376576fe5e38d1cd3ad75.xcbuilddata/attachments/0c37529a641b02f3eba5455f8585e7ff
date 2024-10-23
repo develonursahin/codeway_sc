@@ -1,0 +1,20 @@
+{
+  "" : {
+    "const-values" : "/Users/develonur/Documents/GitHub/plantist/ios/build/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/Runner-master.swiftconstvalues",
+    "dependencies" : "/Users/develonur/Documents/GitHub/plantist/ios/build/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/Runner-master.d",
+    "diagnostics" : "/Users/develonur/Documents/GitHub/plantist/ios/build/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/Runner-master.dia",
+    "emit-module-dependencies" : "/Users/develonur/Documents/GitHub/plantist/ios/build/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/Runner-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/develonur/Documents/GitHub/plantist/ios/build/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/Runner-master-emit-module.dia",
+    "swift-dependencies" : "/Users/develonur/Documents/GitHub/plantist/ios/build/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/Runner-master.swiftdeps"
+  },
+  "/Users/develonur/Documents/GitHub/plantist/ios/build/Runner.build/Release-iphoneos/Runner.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/develonur/Documents/GitHub/plantist/ios/build/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/develonur/Documents/GitHub/plantist/ios/build/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  },
+  "/Users/develonur/Documents/GitHub/plantist/ios/Runner/AppDelegate.swift" : {
+    "index-unit-output-path" : "/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/develonur/Documents/GitHub/plantist/ios/build/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/develonur/Documents/GitHub/plantist/ios/build/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/AppDelegate.o"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070306306021",
+    "project_id": "plantist-be1b3",
+    "storage_bucket": "plantist-be1b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070306306021:android:1af26d804b1a923817f10c",
+        "android_client_info": {
+          "package_name": "com.develonur.plantist.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDePg1J2e5B0HcOrn9Q2bTO1jYTMlaOj9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
