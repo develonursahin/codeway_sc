@@ -35,7 +35,7 @@ class CustomElevatedButton extends StatelessWidget {
               }
             },
             style: ButtonStyle(
-                backgroundColor: WidgetStatePropertyAll(color ?? AppColor.secondary),
+                backgroundColor: WidgetStatePropertyAll(color),
                 shape: WidgetStateProperty.all<RoundedRectangleBorder>(RoundedRectangleBorder(
                     borderRadius: context.border20Radius,
                     side: BorderSide(color: borderColor ?? color ?? AppColor.secondary))),
