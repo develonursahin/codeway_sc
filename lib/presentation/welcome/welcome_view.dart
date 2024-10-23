@@ -43,7 +43,10 @@ class WelcomeView extends StatelessWidget {
               title: AppText.signinWithEmail,
               color: AppColor.greyLight,
               textStyle: AppTextStyle.secondaryBold18,
-              icon: const Icon(CupertinoIcons.mail_solid),
+              icon: const Icon(
+                CupertinoIcons.mail_solid,
+                color: AppColor.secondary,
+              ),
             ).pSymmetric(vertical: context.pageHorizontal),
             RichText(
               text: TextSpan(
